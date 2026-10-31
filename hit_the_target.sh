@@ -1,4 +1,5 @@
 #!/bin/bash
 
-echo "comming soon"
-echo "see u in the 30/10"
+echo "this shit was created based on: https://abako.games"
+echo "so it has the same concept but it's within the terminal"
+
